@@ -8,12 +8,12 @@ html, body {
 /*Pages
 ......................................................................*/
 .page-1 {
-	background-image: url(../img/main_background_v2.png);
+	background-image: url(../img/kormushka.png);
 	background-clip: border-box;
-    background-position: center;
+    background-position: left;
     background-repeat: no-repeat;
     background-size: cover;
-	background-color: #ffffff;
+    background-color: #ffffff;
 	font-weight: 300;
 	/*padding-top: 50px;*/
 	/*padding-bottom: 4%;*/
@@ -77,14 +77,18 @@ html, body {
 }
 
 .page-2 {
+    background-image: url(../img/cardinals.png);
 	background-color: #4a8bff;
+	background-repeat: no-repeat;
 	font-weight: 300;
-	padding-top: 25px;
-	padding-bottom: 20px;
+	/*padding-top: 25px;*/
+	/*padding-bottom: 20px;*/
 	color: #ffffff;
 }
 
 .page-3 {
+    background-image: url(../img/bird.png);
+    background-repeat: no-repeat;
 	background-color: #ff6479;
 	font-weight: 300;
 	padding-top: 25px;
